@@ -20,4 +20,6 @@ Based on the work of Bootstrap Switch (https://github.com/nostalgiaz/bootstrap-s
 
 ## Demo
 
-http://jsfiddle.net/blaryjp/4G56p/
+http://jsfiddle.net/blaryjp/4G56p/1/ (style 1)
+
+http://jsfiddle.net/blaryjp/4G56p/ (style 2)
