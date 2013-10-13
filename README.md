@@ -3,8 +3,11 @@ angularjs-bootstrap-switch
 
 Pure AngularJS adaptation of the Bootstrap Switch plugin.
 
+
 Based on the work of Bootstrap Switch (https://github.com/nostalgiaz/bootstrap-switch).
-2nd style based from FlatUI free.
+
+2nd style based on FlatUI free.
+
 
 ## Usage
 
