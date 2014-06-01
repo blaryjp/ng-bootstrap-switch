@@ -1,5 +1,5 @@
-angularjs-bootstrap-switch
-==========================
+ng-bootstrap-switch
+===================
 
 Pure AngularJS adaptation of the Bootstrap Switch plugin.
 
