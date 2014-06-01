@@ -83,7 +83,7 @@ angular.module('ui.directives', []).directive('checkboxSwitch', function ($timeo
                     elCursor.unbind('mouseleave mousemove touchmove mouseup touchend');
 
                     if ($scope.moving) {
-                        $scope.changeStatusTo(!(parseInt(elWrapper.css('left')) < -25));
+                        $scope.changeStatusTo(!(parseInt(elWrapper.css('left'), 10) < -25));
                     }
 
                     elWrapper.addClass('switch-animate');
